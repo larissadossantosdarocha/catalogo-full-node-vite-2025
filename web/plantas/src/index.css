@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+:root{
+  --c1: rgba(138, 199, 25, 1);
+  --c2: rgba(15, 124, 48, 1);
+  --c3: rgba(194, 248, 177, 1);
+  --c4: #ffa;
+  --t1: rgba(255, 255, 255, 0.5);
+  --t2: rgba(0, 0, 0, 0.5);
+}
